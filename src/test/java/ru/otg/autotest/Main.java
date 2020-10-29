@@ -14,7 +14,7 @@ public class Main {
 
     private static final String gmailURL = "https://www.gmail.com/"; // Url адрес почты Google
     private static final String emailAddress = "simbtest111@gmail.com"; // Email отправителя
-    private static final String passForLogin = "********"; // Пароль отправителя
+    private static final String passForLogin = "asd123fgh456"; // Пароль отправителя
     private static final String searchParam = "from:cesar1640@gmail.com"; // Фильтр поиска сообщений
     private static final String emailTo = "cesar1640@gmail.com"; // Email получателя
 
